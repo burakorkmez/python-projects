@@ -28,7 +28,7 @@ print(f"Hey my name is {first_name} and my last name is {last_name}")
 # int floor division
 a = 17
 b = 5
-print(a / b)  # result 3 (rounds down) normally it is 3.4
+print(a / b)  # result 3.4 (normal division)
 print(a // b)  # result 3 (rounds down) normally it is 3.4
 
 # assing multiple values
