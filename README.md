@@ -5,7 +5,7 @@
 </p>
 
 <h3 align="center">A collection of 35 fun Python projects for beginners!</h3>
-<p align="center">Based on the YouTube Crash Course by <a href="https://youtu.be/mMzwOZQJIcE?si=My2Mxl17kvhbYUtE">burakorkmez</a></p>
+
 
 ## 📚 About
 
